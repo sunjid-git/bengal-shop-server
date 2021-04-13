@@ -9,5 +9,7 @@ Functionality
 ## Deals
 ## Login
 
+#Database - MongoDB 
+
 Note: The project has not been completed yet for some reasons...
 In Future the developer will update the features.
